@@ -1157,7 +1157,7 @@ div#gameLoad.fullscreen {
     color: #fff
 }
 
-.br-bg,.br-item {
+.br-bg,.br-item, .br-item-1 {
     background: rgba(0,0,0,.3);
     border-radius: 10px
 }
@@ -1177,7 +1177,7 @@ div#gameLoad.fullscreen {
     margin-bottom: 30px
 }
 
-.br-box,.br-box-top {
+.br-box,.br-box-top,.br-box-top-1 {
     float: left;
     width: 100%;
     margin-top: 30px
@@ -1188,6 +1188,10 @@ div#gameLoad.fullscreen {
     height: 90px
 }
 
+.home-top-1 .br-item-1 {
+    width: 600px;
+    height: 300px
+}
 #afg_anchor {
     z-index: 99!important;
     width: 100%!important;
