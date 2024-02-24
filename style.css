@@ -1177,7 +1177,7 @@ div#gameLoad.fullscreen {
     margin-bottom: 30px
 }
 
-.br-box,.br-box-top,.br-box-top-1 {
+.br-box,.br-box-top, .br-box-top-1 {
     float: left;
     width: 100%;
     margin-top: 30px
@@ -1189,8 +1189,9 @@ div#gameLoad.fullscreen {
 }
 
 .home-top-1 .br-item-1 {
-    width: 600px;
-    height: 300px
+    width: 100%;
+    height: 300px;
+    
 }
 #afg_anchor {
     z-index: 99!important;
