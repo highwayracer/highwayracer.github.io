@@ -1189,8 +1189,9 @@ div#gameLoad.fullscreen {
 }
 
 .home-top-1 .br-item-1 {
-    width: 100%;
+    width: 600px;
     height: 300px;
+    margin-top: 20px;
     
 }
 #afg_anchor {
